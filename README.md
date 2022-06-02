@@ -8,6 +8,7 @@ Gain experience accessing your operating system's command line interface (CLI)</
 Gain experience working with CLI commands</br>
 Gain experience working with Visual Studio Code (VSCode)</br>
 Gain experience writing and executing non-web server Node.js JavaScript code</br>
+
 Overview</br>
 
 Project elements:</br>
